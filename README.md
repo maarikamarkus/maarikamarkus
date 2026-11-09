@@ -1,5 +1,5 @@
 # Ahoy! 👋
 
-* Software Developer
+* Software Engineer -> Product Manager in the making
 * On my free time I enjoy reading various books and taking hikes
-* Currently building [litetrek.eu](https://litetrek.eu/) for those ultralight enthusiasts 🌿
+
